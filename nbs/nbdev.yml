@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "quarto-blog"
+  site-url: "https://Ekamjot-Kaire.github.io/quarto-blog"
+  description: "new csp blog"
+  repo-branch: main
+  repo-url: "https://github.com/Ekamjot-Kaire/quarto-blog"
